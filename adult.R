@@ -1,0 +1,7 @@
+install.packages('loe')
+library(MASS)
+library(loe)
+A = scan('adult_2dim_A.txt')
+A = t(matrix(A, sqrt(length(A)), sqrt(length(A))))
+res <- LOE(ADM=A)
+write(res$X, 'adult_2dim_LOE.txt')

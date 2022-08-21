@@ -1,0 +1,8 @@
+numpy>=1.21.0
+scipy>=1.5.4
+implicit==0.4.8
+pandas>=0.23.4
+requests>=2.23.0
+matplotlib>=3.1.1
+scikit-learn>=0.22.1
+networkx>=2.4

@@ -1,0 +1,12 @@
+*
+
+!*.py
+!*.md
+!*.sh
+!*.R
+!imgs
+!imgs/adult_2dim.png
+!imgs/amt.png
+!imgs/consul_logo.png
+!requirements.txt
+!.gitignore
