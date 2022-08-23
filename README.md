@@ -6,6 +6,7 @@
 
 User-side recommender systems enable each user of web services to build their own recommender system. However, user-side recommender systems face the problem of limited information, and it is not clear whether building user-side recommender systems is a well-defined problem. In this project, we investigate the feasibility of user-side recommender systems from a theoretical aspect and formulate desirable properties that user-side recommender systems should meet. We propose Consul, an algorithm for user-side recommender systems that provably meet the desiderata.
 
+Paper: https://arxiv.org/abs/2208.09864
 
 ## Clone this repository
 
